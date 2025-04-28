@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mengine/', // Replace with your repository name
+  base: '/MobiusEngine-Task/', // Updated to match your repository name
 })
